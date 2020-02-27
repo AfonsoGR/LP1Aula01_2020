@@ -1,0 +1,11 @@
+C:\Users\afons\Desktop\LP1_Repos\LP1Aula01_2020\OlaMundo\bin\Debug\netcoreapp3.1\OlaMundo.exe
+C:\Users\afons\Desktop\LP1_Repos\LP1Aula01_2020\OlaMundo\bin\Debug\netcoreapp3.1\OlaMundo.deps.json
+C:\Users\afons\Desktop\LP1_Repos\LP1Aula01_2020\OlaMundo\bin\Debug\netcoreapp3.1\OlaMundo.runtimeconfig.json
+C:\Users\afons\Desktop\LP1_Repos\LP1Aula01_2020\OlaMundo\bin\Debug\netcoreapp3.1\OlaMundo.runtimeconfig.dev.json
+C:\Users\afons\Desktop\LP1_Repos\LP1Aula01_2020\OlaMundo\bin\Debug\netcoreapp3.1\OlaMundo.dll
+C:\Users\afons\Desktop\LP1_Repos\LP1Aula01_2020\OlaMundo\bin\Debug\netcoreapp3.1\OlaMundo.pdb
+C:\Users\afons\Desktop\LP1_Repos\LP1Aula01_2020\OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.csprojAssemblyReference.cache
+C:\Users\afons\Desktop\LP1_Repos\LP1Aula01_2020\OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.AssemblyInfoInputs.cache
+C:\Users\afons\Desktop\LP1_Repos\LP1Aula01_2020\OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.AssemblyInfo.cs
+C:\Users\afons\Desktop\LP1_Repos\LP1Aula01_2020\OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.dll
+C:\Users\afons\Desktop\LP1_Repos\LP1Aula01_2020\OlaMundo\obj\Debug\netcoreapp3.1\OlaMundo.pdb
