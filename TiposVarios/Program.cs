@@ -10,7 +10,7 @@ namespace TiposVarios
         /// <param name="args"></param>
         static void Main(string[] args)
         {
-            // X
+            // Inter and real variables
             int inter = 5;
             float floaty = 2.5f;
             double pi = 3.1415;
@@ -18,12 +18,15 @@ namespace TiposVarios
             decimal deximus = 6.969m;
             uint uinter = 4;
 
-            // X
+            // Char variables
             char copyrightSymbol = '\u00A9';
             char zeroDash = '\u00D8';
 
+            // Bool variables
+            bool alivent = false;
+            bool deadnt = true;
 
-            // X
+            // Display the variables in the console
             Console.WriteLine(inter);
             Console.WriteLine(floaty);
             Console.WriteLine(pi);
@@ -32,6 +35,8 @@ namespace TiposVarios
             Console.WriteLine(uinter);
             Console.WriteLine(copyrightSymbol);
             Console.WriteLine(zeroDash);
+            Console.WriteLine("Are you ok? " + alivent);
+            Console.WriteLine("Are you ok 2.0? " + deadnt);
         }
     }
 }
