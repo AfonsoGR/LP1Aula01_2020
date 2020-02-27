@@ -6,6 +6,10 @@ namespace VariasStrings
     {
         static void Main(string[] args)
         {
+            // Ex06 variables
+            double xx = 0.12345;
+            int ii = 18;
+
             // String variables
             string first = "A tab\t followed" 
             + "by a new line\n followed by a unicode symbol \u03A9";
@@ -37,6 +41,19 @@ namespace VariasStrings
             Console.WriteLine(alpha);
             Console.WriteLine(beta);
             Console.WriteLine(charlie);
+
+            // Ex06 Strings and prints
+            string stringXX = $"xx = {xx:f2}";
+            Console.WriteLine(stringXX);
+            
+            string stringXXPercentage = $"xx percentage = {xx:p1}";
+            Console.WriteLine(stringXXPercentage);
+
+            string stringIIHexadecimal = $"ii's value in hexadecimal = {ii:x}";
+            Console.WriteLine(stringIIHexadecimal);
+
+            string stringIICoin = $"ii's value in coin = {ii:c}";
+            Console.WriteLine(stringIICoin);
         }
     }
 }
