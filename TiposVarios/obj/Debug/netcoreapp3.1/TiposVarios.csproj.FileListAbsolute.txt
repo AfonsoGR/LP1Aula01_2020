@@ -1,0 +1,11 @@
+C:\Users\afons\Desktop\LP1_Repos\LP1Aula01_2020\TiposVarios\bin\Debug\netcoreapp3.1\TiposVarios.exe
+C:\Users\afons\Desktop\LP1_Repos\LP1Aula01_2020\TiposVarios\bin\Debug\netcoreapp3.1\TiposVarios.deps.json
+C:\Users\afons\Desktop\LP1_Repos\LP1Aula01_2020\TiposVarios\bin\Debug\netcoreapp3.1\TiposVarios.runtimeconfig.json
+C:\Users\afons\Desktop\LP1_Repos\LP1Aula01_2020\TiposVarios\bin\Debug\netcoreapp3.1\TiposVarios.runtimeconfig.dev.json
+C:\Users\afons\Desktop\LP1_Repos\LP1Aula01_2020\TiposVarios\bin\Debug\netcoreapp3.1\TiposVarios.dll
+C:\Users\afons\Desktop\LP1_Repos\LP1Aula01_2020\TiposVarios\bin\Debug\netcoreapp3.1\TiposVarios.pdb
+C:\Users\afons\Desktop\LP1_Repos\LP1Aula01_2020\TiposVarios\obj\Debug\netcoreapp3.1\TiposVarios.csprojAssemblyReference.cache
+C:\Users\afons\Desktop\LP1_Repos\LP1Aula01_2020\TiposVarios\obj\Debug\netcoreapp3.1\TiposVarios.AssemblyInfoInputs.cache
+C:\Users\afons\Desktop\LP1_Repos\LP1Aula01_2020\TiposVarios\obj\Debug\netcoreapp3.1\TiposVarios.AssemblyInfo.cs
+C:\Users\afons\Desktop\LP1_Repos\LP1Aula01_2020\TiposVarios\obj\Debug\netcoreapp3.1\TiposVarios.dll
+C:\Users\afons\Desktop\LP1_Repos\LP1Aula01_2020\TiposVarios\obj\Debug\netcoreapp3.1\TiposVarios.pdb
