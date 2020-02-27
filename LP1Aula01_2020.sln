@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlaMundo", "OlaMundo\OlaMun
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposVarios", "TiposVarios\TiposVarios.csproj", "{BA50266C-A545-43A0-A575-13F092BE0504}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariasStrings", "VariasStrings\VariasStrings.csproj", "{3049EB02-B706-406D-859F-5FC3EAE1C37C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -58,5 +60,17 @@ Global
 		{BA50266C-A545-43A0-A575-13F092BE0504}.Release|x64.Build.0 = Release|Any CPU
 		{BA50266C-A545-43A0-A575-13F092BE0504}.Release|x86.ActiveCfg = Release|Any CPU
 		{BA50266C-A545-43A0-A575-13F092BE0504}.Release|x86.Build.0 = Release|Any CPU
+		{3049EB02-B706-406D-859F-5FC3EAE1C37C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3049EB02-B706-406D-859F-5FC3EAE1C37C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3049EB02-B706-406D-859F-5FC3EAE1C37C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3049EB02-B706-406D-859F-5FC3EAE1C37C}.Debug|x64.Build.0 = Debug|Any CPU
+		{3049EB02-B706-406D-859F-5FC3EAE1C37C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3049EB02-B706-406D-859F-5FC3EAE1C37C}.Debug|x86.Build.0 = Debug|Any CPU
+		{3049EB02-B706-406D-859F-5FC3EAE1C37C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3049EB02-B706-406D-859F-5FC3EAE1C37C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3049EB02-B706-406D-859F-5FC3EAE1C37C}.Release|x64.ActiveCfg = Release|Any CPU
+		{3049EB02-B706-406D-859F-5FC3EAE1C37C}.Release|x64.Build.0 = Release|Any CPU
+		{3049EB02-B706-406D-859F-5FC3EAE1C37C}.Release|x86.ActiveCfg = Release|Any CPU
+		{3049EB02-B706-406D-859F-5FC3EAE1C37C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
